@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/WebDevSimplified/Face-Detection-JavaScript#readme",
   "dependencies": {
-    "node-static": "^0.7.11"
+    "node-static": "^0.7.11",
+    "screenfull": "^5.0.0"
   },
   "devDependencies": {}
 }
